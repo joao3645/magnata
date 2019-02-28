@@ -1,0 +1,2 @@
+# magnata
+logs magnata roleplay
